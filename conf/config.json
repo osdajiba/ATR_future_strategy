@@ -1,0 +1,19 @@
+{
+  "strategy_name": "V-MEANATR",
+  "config": {
+      "target_list": [
+          "SHFE.RU0000",
+          "shfe.rb0000",          
+          "dce.m0000",
+          "dce.v0000",
+          "ine.sc0000",
+          "ine.ec0000",
+          "ine.bc0000",
+          "czce.SA0000",
+          "dce.lh0000"
+      ],
+      "frequency": "min",
+      "begin_date": "2021-01-01",
+      "end_date": "2024-06-20"
+  }
+}
